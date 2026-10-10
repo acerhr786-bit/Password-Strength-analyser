@@ -1,0 +1,6 @@
+{
+  "name": "CipherKey - Password Security & Cryptography Analyzer",
+  "description": "Comprehensive password strength evaluator, pattern detector, crack-time simulator across threat models, secure passphrase generator, and interactive cryptography learning lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
